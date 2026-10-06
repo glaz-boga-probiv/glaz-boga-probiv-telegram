@@ -1,5 +1,7 @@
 # Глаз Бога: пробив Telegram-аккаунта по нику и ID
 
+![Глаз Бога — поиск по Telegram](repository-cover.png)
+
 Если известен Telegram-ник, ссылка на профиль или числовой ID, с этого можно начать поиск в Глаз Бога. В записях об аккаунте иногда находятся прежние имена пользователя, телефон, упоминания и другие связанные сведения. Когда появляется номер или почта, проверьте их отдельным запросом: так из одного профиля можно перейти к другим аккаунтам.
 
 [Открыть поиск по Telegram](https://glazbogatg.org/?utm_source=github&utm_medium=organic&utm_campaign=glaz-boga-probiv&utm_content=glaz-boga-probiv-telegram&ref=github_glaz-boga-probiv_glaz-boga-probiv-telegram)
